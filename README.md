@@ -49,7 +49,6 @@ Redis, PostgreSQL, кешування валютних пар
 ## Досягнення
 - 100+ Laravel-проєктів
 - Оптимізація БД на 30% через Redis/ElasticSearch
-- Впровадження SCRUM
 - Інтеграція LiqPay, PayPal, Fondy
 
 ---
