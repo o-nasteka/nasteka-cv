@@ -51,3 +51,59 @@ Redis, PostgreSQL, кешування валютних пар
 - Оптимізація БД на 30% через Redis/ElasticSearch
 - Впровадження SCRUM
 - Інтеграція LiqPay, PayPal, Fondy
+
+---
+
+# Nasteka Oleg — PHP Developer
+
+**Email:** oleg.nasteka@gmail.com  
+**Phone:** +38 093 500 43 43  
+**LinkedIn:** [linkedin.com/in/olegnasteka](https://linkedin.com/in/olegnasteka)  
+**GitHub:** [github.com/o-nasteka](https://github.com/o-nasteka)  
+**Location:** Kyiv, Ukraine
+
+## Summary
+Experienced PHP (Laravel Developer) with 9+ years of experience building complex web applications. Specializing in Laravel (5.2 - 12), REST APIs, payment integrations, databases, Docker, Linux. Proven record of developing microservices, analytical tools, and scalable high-performance systems.
+
+## Skills
+- PHP 5-8, JavaScript
+- Microservices
+- Microsoft Azure, Helm, RabbitMQ
+- Laravel (core), basic Yii2, Symfony
+- MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch
+- Docker, Linux, Nginx, K8s
+- Git, Jira, PHPUnit
+- REST APIs, Webhooks, Payment integrations
+- HTML5, CSS3, Bootstrap, jQuery
+- SCRUM, Kanban
+
+## Work Experience
+**Wiz Team** — PHP Developer (Laravel/Lumen), 12.2024 – 04.2025  
+Microservices, Kubernetes, Go, Helm, Redis, MongoDB
+
+**Global Marketing Group** — PHP Developer, 12.2019 – 12.2024  
+Laravel, REST APIs, DevOps, Docker, integrations
+
+**Undelete.news** — PHP Developer, 12.2018 – 01.2020  
+ElasticSearch, Redis, Google Trends API, news feed
+
+**iRocket.me** — CEO, 2016 – 2018  
+CRM, analytics, team leadership
+
+**Jomodo24** (Germany) — PHP Developer, 06.2016 – 11.2016  
+DHL API, logistics, MySQL, MVP
+
+**Crypto Exchange (freelance)** — PHP Developer, 2024  
+Redis, PostgreSQL, currency pair matching and caching
+
+## Education
+- PHP Academy 2015 — CMS on MVC
+- National Aviation University — Enterprise Economics (2001–2006)
+- Frontend + Design Courses (2013–2014)
+- English — Callan Method A2+
+
+## Achievements
+- Delivered 100+ Laravel-based projects
+- Increased DB performance by 30% via Redis/ElasticSearch
+- Introduced and scaled SCRUM methodology
+- Integrated payment systems: LiqPay, PayPal, Fondy
