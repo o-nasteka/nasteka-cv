@@ -28,7 +28,7 @@
 **Global Marketing Group** — PHP Developer, 12.2019 – 12.2024  
 Laravel, REST API, DevOps, Docker, інтеграції
 
-**Undelete.news** — PHP Developer, 12.2018 – 01.2020  
+**Undelete.news** — PHP Developer, 12.2018 – 12.2019  
 ElasticSearch, Redis, Google Trends API, стрічка новин
 
 **iRocket.me** — CEO, 2016 – 2018  
