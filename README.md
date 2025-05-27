@@ -99,7 +99,7 @@ Redis, PostgreSQL, currency pair matching and caching
 - PHP Academy 2015 — CMS on MVC
 - National Aviation University — Enterprise Economics (2001–2006)
 - Frontend + Design Courses (2013–2014)
-- English — Callan Method A2+
+- English — Callan Method B2+
 
 ## Achievements
 - Delivered 100+ Laravel-based projects
