@@ -38,7 +38,7 @@ CRM, аналітика, управління командою
 API DHL, логістика, MySQL, MVP
 
 **Криптообмінник (фріланс)** — PHP Developer, 2024  
-Redis, PostgreSQL, кешування валютних пар
+Redis, PostgreSQL, механізм пошуку валютних пар
 
 ## Освіта
 - PHP Academy 2015 — CMS на MVC
